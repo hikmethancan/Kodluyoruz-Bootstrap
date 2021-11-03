@@ -1,0 +1,14 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.bg-yellow{
+    background-color: rgb(255, 192, 23);
+}
+
+.border-bottom-1{
+    border-bottom: 1px solid #222;
+}
+.aside-button>li{
+    margin-bottom: 10px;
+}
